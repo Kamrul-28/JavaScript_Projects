@@ -1,0 +1,29 @@
+.head {
+    margin-left: 350px;
+    background-color: rgb(153, 174, 159);
+    padding: 20px;
+}
+
+.input1 {
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.input2 {
+    margin-top: 20px;
+}
+
+.calc {
+    margin-left: 350px;
+    background-color: honeydew;
+}
+
+.res {
+    margin-left: 350px;
+}
+
+.bac {
+    background-color: rgb(153, 174, 159);
+    padding: 20px;
+    margin-left: 40px;
+}
